@@ -1,0 +1,24 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+@import './variables';
+@import './modern-normalize';
+// @import './fonts';
+@import './mixins';
+@import './visually-hidden';
+@import './placeholders';
+@import './ui.totop';
+
+@import './container';
+@import './common';
+
+@import './header';
+@import './home';
+@import './products';
+@import './production';
+@import './gallery_photo';
+@import './gallery';
+@import './locations';
+@import './footer';
